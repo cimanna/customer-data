@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Data API
 
 Using a classmate's API to create the front-end of an App
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# customer-data
+>>>>>>> 56b001d073e0f35332bc0d538245328b4ffb4c2a
