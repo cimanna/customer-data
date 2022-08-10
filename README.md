@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Customer Data API
 
-Using a classmate's API to create the front-end of an App
 
 ## Available Scripts
 
