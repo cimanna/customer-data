@@ -4,3 +4,6 @@
 [GitHub Repo](https://cimanna.github.io/customer-data/)
 
 
+## Acknowledgments
+
+[Paul Kim's Customer-Data API](https://customerdataapi.herokuapp.com/)
