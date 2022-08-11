@@ -4,6 +4,6 @@
 [GitHub Repo](https://cimanna.github.io/customer-data/)
 
 
-<h5 align="center">Acknowledgments</h5>
+<h4 align="center">Acknowledgments</h4>
 
 [Paul Kim's Customer-Data API](https://customerdataapi.herokuapp.com/)
